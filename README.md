@@ -32,6 +32,3 @@ Eğitilen YOLOv8 modelinin test veri setindeki başarısını gösteren karmaş�
 * 🚨 **Akıllı İhlal Uyarısı:** Eğer personel KKD (Kişisel Koruyucu Donanım) kullanmıyorsa, sistem ekranda **"GÜVENLİK İHLALİ"** uyarısı verir ve paneli kırmızıya çevirir.
 * 📹 **Çoklu Medya Desteği:** İster hazır video yükleyin, ister fotoğraf üzerinden analiz yapın.
 * 💻 **Modern Arayüz:** CustomTkinter ile geliştirilmiş, kullanıcı dostu ve karanlık mod destekli GUI.
-* bash
-   git clone [https://github.com/hasanbarim/Insaat-Guvenlik-YOLO-Tespit.git](https://github.com/hasanbarim/Insaat-Guvenlik-YOLO-Tespit.git)
-   cd Insaat-Guvenlik-YOLO-Tespit
