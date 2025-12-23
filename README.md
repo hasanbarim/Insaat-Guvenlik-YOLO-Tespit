@@ -22,12 +22,3 @@ Proje hem **video** hem de **fotoğraf** üzerinden analiz yapabilir. Tespit son
 * 🚨 **Akıllı İhlal Uyarısı:** Eğer personel KKD (Kişisel Koruyucu Donanım) kullanmıyorsa, sistem ekranda **"GÜVENLİK İHLALİ"** uyarısı verir ve paneli kırmızıya çevirir.
 * 📹 **Çoklu Medya Desteği:** İster hazır video yükleyin, ister fotoğraf üzerinden analiz yapın.
 * 💻 **Modern Arayüz:** Kullanıcı dostu ve karanlık mod destekli GUI.
-
-## 🛠️ Kurulum ve Kullanım
-
-Projeyi bilgisayarınızda çalıştırmak için adımları izleyin:
-
-1. **Repoyu Klonlayın:**
-   ```bash
-   git clone [https://github.com/hasanbarim/Insaat-Guvenlik-YOLO-Tespit.git](https://github.com/hasanbarim/Insaat-Guvenlik-YOLO-Tespit.git)
-   cd Insaat-Guvenlik-YOLO-Tespit
